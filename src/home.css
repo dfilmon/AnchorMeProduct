@@ -1,0 +1,114 @@
+#logo2 {
+  width: 100px;
+  height: 30px;
+}
+
+#team2 {
+  border: solid;
+  border-color: pink;
+  width: 200px;
+}
+
+body {
+  background-color: #8e8f89;
+}
+
+.parent1 {
+  border: solid;
+  border-color: pink;
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 500px;
+  margin: 0.5em;
+  margin-top: 60px;
+}
+
+.parent2 {
+  border: solid;
+  border-color: pink;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  width: 100vw;
+  height: 600px;
+  margin: 0.5em;
+}
+
+.parent3 {
+  border: solid;
+  border-color: pink;
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 325px;
+  margin: 0.5em;
+  padding: 0.5em;
+  text-align: center;
+}
+
+.child1 {
+  border: solid;
+  border-color: yellow;
+  width: 280px;
+  height: 293px;
+  margin: 5px;
+  background-color: #dfd3c3;
+}
+
+.child2 {
+  border: solid;
+  border-color: green;
+  width: 280px;
+  height: 293px;
+  margin: 5px;
+  background-color: #c8dbbe;
+}
+
+.child3 {
+  border: solid;
+  border-color: red;
+  width: 280px;
+  height: 293px;
+  margin: 5px;
+  background-color: #d0b8a8;
+}
+
+.child4 {
+  border: solid;
+  border-color: purple;
+  width: 280px;
+  height: 293px;
+  margin: 5px;
+  background-color: #ede4e0;
+}
+
+.childMiddle1 {
+  border: solid;
+  border-color: yellow;
+  width: 400px;
+  height: 585px;
+  margin: 4px;
+}
+
+.childMiddle2 {
+  border: solid;
+  border-color: yellow;
+  width: 800px;
+  height: 585px;
+  margin: 4px;
+}
+
+#parentPic {
+  height: 100%;
+  width: 100%;
+}
+
+.p1image {
+  border: solid;
+  width: 100vw;
+  height: 300px;
+  margin: 0.5em;
+  background-image: url("https://images.unsplash.com/photo-1530096044079-966a654d6ae4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+}

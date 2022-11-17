@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+#app {
+  height: 100vh;
+}
+
+.loader {
+  width: 100%;
+  height: 100%;
+}
